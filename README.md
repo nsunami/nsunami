@@ -22,7 +22,7 @@ I'm Nami. I caught a programming bug first larning about Matlab & R, and then th
 - [ResearchEquals.com](https://github.com/libscie/ResearchEquals.com) - Maintainer
 - [Postreview](https://github.com/PostReview/postreview-app) - Code owner
 - [Nami Writes (my blog)](https://github.com/nsunami/nami-writes) - For learning 11ty
-- [Homelab](https://github.com/nsunami/homelab) - hosting various services, such as Bluesky PDS
+- [Homelab](https://github.com/nsunami/homelab) - Hosting various services, such as Bluesky PDS
 
 
 ## Socials
