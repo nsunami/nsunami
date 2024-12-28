@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Nami. I caught a programming bug first larning about Matlab & R, and then the potential of software in creating the world a better place. I believe we as people can use technology better to be more open, more connected, and more euiitable to each other. 🫶
+I'm Nami. I caught a programming bug first larning about Matlab & R, and then the potential of software in creating the world a better place. I believe we as people can use technology better to be more open and more connected to each other. 🫶
 
 ## Current projects
 
